@@ -5,12 +5,12 @@ public partial class MainViewModel : BaseViewModel
     private readonly HttpClient manager = new();
 
     [ObservableProperty]
-    string results = "Unknown";
+    string results = "UNKNOWN";
 
     [RelayCommand]
     async Task Download()
     {
-        Results = "Loading";
+        Results = "LOADING";
         await Task.Delay(TimeSpan.FromSeconds(5));
         var storage = FileSystem.Current.CacheDirectory;
         var deposit = Directory.CreateDirectory(Path.Combine(storage, Path.GetRandomFileName()[..8])).FullName;

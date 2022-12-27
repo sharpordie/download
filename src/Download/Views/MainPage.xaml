@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:vm="clr-namespace:Download.ViewModels"
              x:Class="Download.Views.MainPage"
-             x:DataType="vm:MainViewModel">
+             x:DataType="vm:MainViewModel"
+             BackgroundColor="LightYellow">
 
     <Grid
         Margin="16"
@@ -15,7 +16,7 @@
             Padding="32"
             Stroke="Red"
             StrokeShape="RoundRectangle 8"
-            StrokeThickness="1">
+            StrokeThickness="2">
             <Label
                 TextColor="Red"
                 Text="{Binding Results}"

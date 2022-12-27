@@ -4,4 +4,9 @@ MAUI application that uses the HttpClient package.
 
 ## <samp>OVERVIEW</samp>
 
-<img src="" width="32.333%"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="1.5%"/><img src="" width="32.333%"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="1.5%"/><img src="" width="32.333%"/>
+<img src="assets/img1.png" width="32.333%"/><img src="assets/none.png" width="1.5%"/><img src="assets/img2.png" width="32.333%"/><img src="assets/none.png" width="1.5%"/><img src="assets/img3.png" width="32.333%"/>
+
+## <samp>GUIDANCE</samp>
+
+```
+```

@@ -2,7 +2,7 @@
 
 MAUI application that uses the HttpClient package.
 
-## <samp>TESTING</samp>
+## <samp>WORKED</samp>
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> |
 | :-: | :-: | :-: | :-: | :-: |

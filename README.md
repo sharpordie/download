@@ -8,12 +8,6 @@ MAUI application that uses the HttpClient package.
 
 ## <samp>GUIDANCE</samp>
 
-### Lorem ipsum dolor sit amet
-
-```
-wget -qO-
-```
-
 ```
 wget -qO-
 ```

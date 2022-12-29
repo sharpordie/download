@@ -11,11 +11,11 @@ MAUI application that uses the HttpClient package.
 ### Lorem ipsum dolor sit amet
 
 ```
-...
+wget -qO-
 ```
 
 ### Excepteur sint occaecat
 
 ```
-...
+wget -qO-
 ```

@@ -10,7 +10,7 @@ MAUI application that uses the HttpClient package.
 | :-: | :-: | :-: | :-: | :-: |
 | <br>🟩<br><br> | <br>🟩<br><br> | <br>🟥<br><br> | <br>🟩<br><br> | <br>🟩<br><br> |
 
-## <samp>EXAMPLE</samp>
+## <samp>USECASE</samp>
 
 ## <samp>GALLERY</samp>
 

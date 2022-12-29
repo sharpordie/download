@@ -2,8 +2,6 @@
 
 MAUI application that uses the HttpClient package.
 
-## <samp>PREFACE</samp>
-
 ## <samp>OPERATE</samp>
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> |
@@ -11,6 +9,16 @@ MAUI application that uses the HttpClient package.
 | <br>🟩<br><br> | <br>🟩<br><br> | <br>🟥<br><br> | <br>🟩<br><br> | <br>🟩<br><br> |
 
 ## <samp>USECASE</samp>
+
+### Lorem ipsum dolor sit amet
+
+```
+```
+
+### Excepteur sint occaecat
+
+```
+```
 
 ## <samp>GALLERY</samp>
 

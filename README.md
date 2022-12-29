@@ -1,4 +1,4 @@
-﻿# <samp>DOWNLOAD</samp>
+# <samp>DOWNLOAD</samp>
 
 MAUI application that uses the HttpClient package.
 

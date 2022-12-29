@@ -14,8 +14,6 @@ MAUI application that uses the HttpClient package.
 wget -qO-
 ```
 
-### Excepteur sint occaecat
-
 ```
 wget -qO-
 ```

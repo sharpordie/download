@@ -6,7 +6,7 @@ MAUI application that uses the HttpClient package.
 
 # <samp>OVERVIEW</samp>
 
-### Lorem ipsum dolor sit amet
+## Lorem ipsum dolor sit amet
 
 ```shell
  
